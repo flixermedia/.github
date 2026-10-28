@@ -52,7 +52,7 @@ The backend, web experience, streaming engine, media indexer, update manager, pl
 Curious what Flixer looks like? Explore our screenshot gallery for a closer look at the interface, media libraries, music playback, discovery, user profiles, and server administration.
 
 <p align="center">
-  <a href="./GALLERY.md">
+  <a href="../GALLERY.md">
     <img src="https://img.shields.io/badge/📸_Explore_the_Gallery-7C3AED?style=for-the-badge" alt="Explore Flixer Gallery">
   </a>
 </p>
