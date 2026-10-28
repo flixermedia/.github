@@ -295,13 +295,6 @@ All images use relative paths so they render directly on GitHub when `README.md`
 
 Found a bug or have an idea for one of these views? Open an issue in [flixer-web](https://github.com/flixermedia/flixer-web/issues) for frontend issues, or use the appropriate component repository. For setup and development instructions, consult each repository’s README.
 
-## 📄 Screenshot usage
-
-Screenshots are provided to showcase the Flixer interface. Posters, album covers, artist names, film titles, and other third-party media imagery belong to their respective rights holders. This gallery does not grant separate rights to reuse that material.
-
-> [!IMPORTANT]
-> Before publishing, review the images for personal information, server paths, internal addresses, profile photos, and account details visible in the screenshots.
-
 ---
 
 <div align="center">
